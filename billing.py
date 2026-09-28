@@ -1,0 +1,13 @@
+def print_hospital_bill(patient):
+    print("\n" + "=" * 40)
+    print("           HOSPITAL BILL")
+    print("=" * 40)
+    print(f"Patient ID       : {patient.pid}")
+    print(f"Patient Name     : {patient.name}")
+    print(f"Patient Age      : {patient.age}")
+    print(f"Disease          : {patient.disease}")
+    print("-" * 40)
+    print(f"Total Charges    : Rs. {patient.charges:.2f}")
+    print("=" * 40)
+    print("           Thank you!")
+    print("=" * 40)

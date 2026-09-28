@@ -1,0 +1,16 @@
+[
+    {
+        "pid": 2,
+        "name": "Dev",
+        "age": 18,
+        "disease": "Autoimmune",
+        "charges": 1090.0
+    },
+    {
+        "pid": 1,
+        "name": "3err",
+        "age": 23,
+        "disease": "78cholera",
+        "charges": 0.0
+    }
+]

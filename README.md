@@ -17,5 +17,5 @@ A lightweight, terminal-based Python application for managing hospital patient r
 ## Installation & Running
 1. Clone the repository:
    ```bash
-   git clone <YOUR-GITHUB-REPO-LINK>
+   git clone <https://github.com/DEVESHRAI17/Hospital-Management-System.git>
    cd hospital_management
